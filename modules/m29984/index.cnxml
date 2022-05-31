@@ -1,0 +1,302 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Taking Customers' Orders</title>
+  <metadata>
+  <md:content-id>m29984</md:content-id><md:title>Taking Customers' Orders</md:title>
+  <md:abstract>Taking Customers' Orders</md:abstract>
+  <md:uuid>dd68a67a-11f4-4140-a49f-b78e856e2262</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-805296972307">
+      <title>SECTION 1: LANGUAGE FOCUS</title>
+      <para id="id3499456">1. Structures</para>
+      <para id="id3499463">Articles: A/AN and THE</para>
+      <para id="id3499480">Look at these sentences.</para>
+      <list id="id3499484" list-type="bulleted">
+        <item>Every summer we stay in a hotel in Rome. The hotel is in the city centre.</item>
+        <item>Could I have the menu, please?</item>
+        <item>Could I have a beer, please?</item>
+        <item>Could I speak to the manager, please?</item>
+      </list>
+      <para id="id4370368">PRACTICE</para>
+      <para id="id4370373">Fill in the blanks with blanks with A/AN or THE.</para>
+      <list id="id4370378" list-type="enumerated">
+        <item>On Saturdays we eat in _____ restaurant in Oxford. _____ restaurant is near _____ River Thames.</item>
+        <item>Do you have _____ reservation, madam?</item>
+        <item>Can I have _____ reservation, madam?</item>
+        <item>Would you like to see _____ wine list, sir?</item>
+        <item>Would you like _____ aperitif?</item>
+        <item>_____ beer here is very good.</item>
+        <item>Could I have _____ bill?</item>
+      </list>
+      <para id="id4370420">A or SOME</para>
+      <para id="id4370427">Look at these sentences.</para>
+      <list id="id4370432" list-type="bulleted">
+        <item>I’d like a (glass of) beer/a glass of wine/a table near the window/a (cup of) coffee</item>
+        <item>I’d like some bread/some wine/some water/some milk</item>
+      </list>
+      <para id="id4370523">PRACTICE</para>
+      <para id="id4370527">Fill in the blanks with A or SOME.</para>
+      <list id="id4370531" list-type="enumerated">
+        <item>I’d like ______ whisky, please.</item>
+        <item>There’s ______ bread on the table.</item>
+        <item>Could I have _____ glass of wine?</item>
+        <item>Mr. Jones has left ____ money in his room.</item>
+        <item>Could I have ______ rice?</item>
+      </list>
+      <para id="id4370564">Taking orders</para>
+      <table id="id4370568" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c4">A. Waiter</entry>
+              <entry>B. Customer</entry>
+              <entry>A. Waiter</entry>
+            </row>
+            <row>
+              <entry>Would you like </entry>
+              <entry namest="c2" nameend="c3">a/ansome</entry>
+              <entry>aperitif?….?water?….?</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          (Repeats the offer)(Yes,) please.(Yes,) OK.(Yes,) fine.</entry>
+              <entry>Very good, Sir/Madam.(Informal: Fine!/OK)</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Would you like to</entry>
+              <entry namest="c3" nameend="c4">sit near…?sit in theshade/sun?see thewine list?set menu?order now?</entry>
+              <entry>
+          FIXME: A LIST CAN NOT BE A TABLE ENTRY.
+          Sure.That would be nice/great/ splendid/etc.Yes, I could do with a/some …No, thanks.Not really, (thanks)(No,) it’s OK.I don’t know.I’m not too sure.Let me see/think.Can you give us a bit more time?</entry>
+              <entry>Certainly, Sir/Madam.(Informal: Sure!/OK!)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4370891">Recommending</para>
+      <table id="id4370896" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>I haven’t decidedI can’t make up my mindI’m wondering</entry>
+              <entry>about</entry>
+              <entry>an appetizera soupa main coursea dessert</entry>
+            </row>
+            <row>
+              <entry>What would you suggestWhat do you recommend</entry>
+              <entry>as</entry>
+              <entry>an appetizer?a soup?a main course?a dessert?</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id4371032" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>I can recommend the ……</entry>
+              <entry>It’s They’re</entry>
+              <entry>excellent.particularly good.one of the chef’s specialties.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4371112">Recommending and comparing</para>
+      <para id="id4371117">Customer</para>
+      <table id="id4371121" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>What’s</entry>
+              <entry>the difference between</entry>
+              <entry>the </entry>
+              <entry>Beaujolais</entry>
+              <entry>and the</entry>
+              <entry>Nuits St. Georges?</entry>
+            </row>
+            <row>
+              <entry>Which is</entry>
+              <entry>lighter:more full-bodied:drier:sweeter:</entry>
+              <entry>the</entry>
+              <entry>Beaujolais…</entry>
+              <entry>or the</entry>
+              <entry>Nuits St. Georges?…</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4371296">Waiter/waitress</para>
+      <table id="id4371300" summary="">
+        <tgroup cols="11">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <tbody>
+            <row>
+              <entry>Oh, the</entry>
+              <entry>Beaujolais…</entry>
+              <entry>is</entry>
+              <entry namest="c4" nameend="c5">lighter etc.</entry>
+              <entry namest="c6" nameend="c7">than the</entry>
+              <entry namest="c8" nameend="c10">Nuits St. Georges?…</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Oh, the</entry>
+              <entry namest="c2" nameend="c4">Nuits St. Georges?…</entry>
+              <entry namest="c5" nameend="c6">is not as</entry>
+              <entry namest="c7" nameend="c8">lighter etc.</entry>
+              <entry>as the</entry>
+              <entry namest="c10" nameend="c11">Beaujolais…</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id-863904001222">
+        <title>PRACTICE</title>
+        <para id="id4371524">1. Complete the following conversations.</para>
+        <para id="id4371532">Conversation 1</para>
+        <para id="id4371536">Waiter (W):_________________.</para>
+        <para id="id4371550">Guest (G): I’d like to have dinner in your restaurant at 7:00 tonight.</para>
+        <para id="id4371559">W: ________?</para>
+        <para id="id4371566">G: A table for two?</para>
+        <para id="id4371575">W:  __________?</para>
+        <para id="id4371583">G: David Smith.</para>
+        <para id="id4371592">W: Mr. Smith, __________?</para>
+        <para id="id4371600">G: No, thanks.</para>
+        <para id="id4371608">Conversation 2</para>
+        <para id="id4371613">W: _________</para>
+        <para id="id4371620">G: This is Henry Green speaking. I’d like to have a table for four tonight.</para>
+        <para id="id4371632">W:  __________?</para>
+        <para id="id4371639">G: At about eight.</para>
+        <para id="id4371648">W: ___________</para>
+        <para id="id4371657">G: Yes, you are right. By the way, could you give us a table in the corner? We’d like to have a quiet table.</para>
+        <para id="id4371676">W: ______________?</para>
+        <para id="id4371684">G: Thank you. Good-bye.</para>
+        <para id="id4371692">2. List the order in which restaurant staff do these things. For example: 1 = (e) </para>
+        <list id="id4371716" list-type="enumerated">
+          <item>ask if guests would like to see the wine list</item>
+          <item>bring the wine list</item>
+          <item>serve the bread or rolls</item>
+          <item>take the guests to their table</item>
+          <item>receive guests when they arrive</item>
+          <item>take guests’ coats to the cloakroom</item>
+          <item>take down the orders from the first and second courses</item>
+          <item>ask if guests would like an aperitif (a drink before meal)</item>
+          <item>offer water</item>
+          <item>take down the wine order</item>
+          <item>bring the menu</item>
+        </list>
+        <para id="id4371794">3. Work with a partner. Use the menu provided by your teacher and take turns to be A (a customer who wants some advice) and B (a waiter/waitress).</para>
+        <para id="id4371804">2. Vocabulary</para>
+        <para id="id4371811">Courses in a restaurant</para>
+        <para id="id4371816">Below are the courses on two kinds of menu, but they are in wrong order. Put the courses in a better order, and discuss what dishes etc. one might serve for some of them. For example: 1. Hors d’oeuvres: eggs mayonnaise. . . .</para>
+        <para id="id4371836">A la carte menu in a four-star restaurant: Cheese board – Entrees – Coffee and mints – Cold platters – Sweets – Hors d’oeuvre – Fish – Soups – Vegetables</para>
+        <para id="id4371853">Coffee-shop menu in an international hotel: Wine list – Main dishes – Soups – Desserts – Sandwiches – Appetizers – Beverages – Pasta dishes – Cold plate </para>
+      </section>
+    </section>
+    <section id="id-262286672325">
+      <title>SECTION 2: READING</title>
+      <list id="id4371878" list-type="enumerated">
+        <item>Pre-reading</item>
+      </list>
+      <para id="id4371890">Discuss the questions with your friends.</para>
+      <list id="id4371895" list-type="bulleted">
+        <item>What do customers often expect of good food service?</item>
+        <item>What are some bad habits that can lead to poor service?</item>
+        <item>What is "passing the buck"?</item>
+        <item>Reading</item>
+      </list>
+      <para id="id4371926">We know that service is anything other than physical goods that is valuable to customers. There are some laws that lead to good service. The most critical one is about customers' satisfaction. The following article presents some golden rules that restaurant staff members need to be aware of in order to provide good service.</para>
+      <section id="id-0388234368886">
+        <title>LAW OF SERVICE</title>
+        <para id="id4371943">We know that service is anything other than physical goods that is valuable to customers. This customer perspective leads to the Law of Service - the most critical relation­ship in all service work.</para>
+        <para id="id4371954">1. Accessibility. Customers expect prompt and efficient service. This means that they must be able to get to someone in the organization who can help them. Whether it is waiting for initial processing or talking to someone about fixing a problem, they do not expect to go through a maze of paperwork and red tape. They want their questions answered and their needs met as soon as possible.</para>
+        <para id="id4371972">2. Courtesy. Customers expect to be treated in a professional manner. They react poorly to rudeness. Customers expect their property to be treated with respect as well. Employees should treat customers' luggage, cars, and so <link url="http://on.as/">on</link> as if it were their own. They also expect a neat and clean appearance. </para>
+        <para id="id4372003">3. Personal attention.Customers want to be treated as unique individuals. They want to know that the company they are dealing with cares about them as individuals. They expect to be told what services will be provided, and they expect someone to care about their problems (and do something about them). </para>
+        <para id="id4372020">4. Empathy. Empathy is a person's ability to see and feel things from someone else's point of view. Customers expect that service employees will understand what they care about. Customers do not expect to be treated as though their presence is an imposition on the employee or an interruption to an otherwise pleasant day.</para>
+        <para id="id4372037">5. Job knowledge. Customers expect that employees will know the facts about their job and their company. They expect honest answers. On some special requests, they may accept an employee going to a supervisor for an answer, provided that the answer comes quickly. </para>
+        <para id="id4372053">6. Consistency. Customers expect to get the same answer no matter who they talk to. If everyone meets the criteria for job knowledge, there is no reason for two dif­ferent employees to give conflicting answers. There are some instances where a variety of treat­ment may be acceptable, but only when they see and understand an obvious and compelling reason for a difference in treatment.</para>
+        <para id="id4372078">7. Teamwork. The company may be composed of many different departments with different goals and methods of operation, but to customers it is a single entity. They do not expect internal turf battles to affect them nor do they expect to be passed from one department to another for answers to simple questions.</para>
+        <para id="id4372094">Seven Deadly Sins,</para>
+        <para id="id4372099">1. Leave someone expecting a reply. Whenever we tell someone we will call or send something, we must follow through and do it. Even when we don't have an answer or anything else useful to say to a customer, we can call the customer to say that we have no new information yet and are still working on it. It is important that the person not feel forgotten or ignored. </para>
+        <para id="id4372124">2. Argue with a customer. If you remember the old saying," The customer is always right," you already know about this sin. Even when customers are completely wrong, service providers do not get any points for proving it. Taking an argumentative tone with a customer puts a service person in a poor position from the start. </para>
+        <para id="id4372141">3. Present a dirty or unprofessional look. This is one of the best ways to get off to the wrong start with a customer. Dirty facilities or unprofessional-looking employees immediately undermine the overall credibility of any service organization. Cleanliness will almost never be cited as a particularly good service quality, but the lack of cleanli­ness will be noticed immediately.</para>
+        <para id="id4372165">4. Give conflicting or incorrect information. Nothing is more frustrating to a customer than hearing two conflicting pieces of information from two different people in the same organization. Customers expect each of us to be perfect­ly up-to-date and knowledgeable about practically everything to do with our products. When we don't know something, we are much better off tactfully admitting our lack of knowledge and promising to call them back. </para>
+        <para id="id3962005">5. Argue with a fellow worker in front of a customer. As human beings, we will certainly have disagreements with fellow staff members. There is a time and a place for working out these differences. It may even take a screaming match to work it out-but not in front of customers. We can almost always wait to discuss it until the customer has left. We can ask our co-worker to go into a back room where we can discuss the problem, come to an agreement and then go back to deal with the customer as a team.</para>
+        <para id="id3962037">6. Imply that a customer's needs are unimportant or trivial. Our customers may be the fiftieth person that day that we have had to deal with on the same service need, but to them, this is the first time that day they've needed it. The worst thing we can do at that moment is to trivialize their needs or make it seem as if they are an imposition on our otherwise carefree day. </para>
+        <para id="id3962055">7. Pass the buck. A common practice in service organizations, especially those with large bureaucracies, passing the buck can be very frustrating to customers. Customers already tense because something has or may go wrong, and we double that pressure by sending them through a maze of red tape. The best way to avoid this is to be knowledgeable about who in the organization has the authority to help this person. If a supervisor is not immediately available, offer to have someone call the customer back. </para>
+        <para id="id3962076">Decide whether the following statements are true (T) or false (F).</para>
+        <list id="id3962082" list-type="enumerated">
+          <item>________ Customers' property should be handled with care and respect at a restaurant.</item>
+          <item>________ Service workers are supposed to understand what customers are expecting of the service they are providing.</item>
+          <item>________Customers do not accept the situation where a service employee goes to seek a supervisor if he/she cannot answer the customers' questions.</item>
+          <item>________ The operation of a restaurant with different departments is still a single entity in customers' viewpoint.</item>
+          <item>________ If a service employee cannot have an answer immediately, he/she should tell the customer to forget or ignore it.</item>
+          <item>________ When customers are completely wrong, service workers need to say so to them and prove it.</item>
+          <item>________ If a service worker does not know an answer or information a customer is requesting, he/she must politely admit his/her lack of knowledge.</item>
+          <item>________ Service workers are never allowed to argue with each other at the workplace.</item>
+          <item>________ Service workers should sometimes point out to customers that their request is unimportant at all.</item>
+          <item>________ The best way to avoid passing the buck is to get a supervisor to solve the problem.</item>
+          <item>Vocabulary</item>
+        </list>
+        <para id="id3962168">Fill in the blanks with NO MORE THAN three words taken from the text.</para>
+        <para id="id3962173">The law of service says that satisfaction is based on whether ___________ perceive that the ___________ is good or bad, and this judgment is based on their subjective attitudes, not necessarily on an objective evaluation of facts. Different customers may perceive the same ___________ in different ways, and even the same customer may perceive it differently at different times.</para>
+        <para id="id3962184">In general, customers have ___________basic expectations relating to restaurant staff's professionalism. They often expect ___________ service that does not let them wait or get through an amount of ___________. As ___________, they expect the restaurant staff to professionally pay individual attention to and care about them with the staff's ___________.</para>
+        <para id="id3962194">And while many acts may or may not be perceived poorly, there are seven ___________ that are sure to upset customers. One of the bad habits is to ___________ when customers have to go through a maze of paperwork and red tape in order to solve a problem.</para>
+        <list id="id3962203" list-type="enumerated">
+          <item>Speaking</item>
+        </list>
+        <para id="id3962214">Discuss the following questions with your friends.</para>
+        <list id="id3962219" list-type="enumerated">
+          <item>How can service organizations use this law of service to design better service delivery systems?</item>
+          <item>Can you think of other rules enhancing good service delivery that are not mentioned in the text?</item>
+          <item>What other things should service employees avoid?</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-746619394657">
+      <title>SECTION 3: DO YOU REMEMBER?</title>
+      <para id="id3962252">1. What do you say when you want to take orders? </para>
+      <para id="id3962260"/>
+      <para id="id3962264"/>
+      <para id="id3962268"/>
+      <para id="id3962272"/>
+      <para id="id3962276"/>
+      <para id="id3962280"/>
+      <para id="id3962284">2. What do you say when you want to make a recommendation?</para>
+      <para id="id3962293"/>
+      <para id="id3962297"/>
+      <para id="id3962301"/>
+      <para id="id3962305"/>
+      <para id="id3962309"/>
+      <para id="id3962313"/>
+    </section>
+  </content>
+</document>
