@@ -1,3 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10770</md:content-id>  <md:title>English for tourism</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>717d7175-5851-46f8-b4b9-5ce5ab03ccaf</md:uuid>
-<md:slug>english-for-tourism</md:slug>
-</metadata>  <col:content>          <col:module document="m30221"/>                            <col:module document="m29897"/>                            <col:module document="m29726"/>                            <col:module document="m29741"/>                            <col:module document="m29553"/>                            <col:module document="m30217"/>                            <col:module document="m29984"/>                            <col:module document="m30222"/>                            <col:module document="m30233"/>                            <col:module document="m30235"/>                            <col:module document="m30479"/>                            <col:module document="m30344"/>                            <col:module document="m30359"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="vocw">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10770</md:content-id>
+    <md:title>English for tourism</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>717d7175-5851-46f8-b4b9-5ce5ab03ccaf</md:uuid>
+    <md:slug>english-for-tourism</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30221"/>
+    <col:module document="m29897"/>
+    <col:module document="m29726"/>
+    <col:module document="m29741"/>
+    <col:module document="m29553"/>
+    <col:module document="m30217"/>
+    <col:module document="m29984"/>
+    <col:module document="m30222"/>
+    <col:module document="m30233"/>
+    <col:module document="m30235"/>
+    <col:module document="m30479"/>
+    <col:module document="m30344"/>
+    <col:module document="m30359"/>
+  </col:content>
+</col:collection>
